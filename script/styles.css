@@ -1,0 +1,76 @@
+.f48{
+    color: rgb(117, 70, 44);
+    font-size: 48px;
+    text-shadow: 2px 5px rgb(26, 25, 25);
+}
+
+.blue{
+    color:rgb(54, 135, 167);
+    font-size: 48px;
+    text-shadow: 2px 5px rgb(26, 25, 25);
+}
+
+.red{
+    color:rgb(201, 50, 13);
+    font-size: 48px;
+    text-shadow: 2px 5px rgb(26, 25, 25);
+}
+
+.green{
+    color:rgb(37, 126, 49);
+    font-size: 48px;
+    text-shadow: 2px 5px rgb(26, 25, 25);
+}
+
+.pink{
+    color:rgb(126, 37, 96);
+    font-size: 48px;
+    text-shadow: 2px 5px rgb(26, 25, 25);
+}
+
+.bgimg{
+    background-image: url("../images/p13.jpg");
+    background-repeat: repeat-x;
+    opacity: 0.8;
+}
+
+.bgimgo{
+    background-image: url("../images/p9.jpg");
+}
+
+.bgimg13{
+    background-image: url("../images/p13.jpg");
+}
+
+
+body{
+    background-color: #F5DEB3;
+}
+a{
+    color: #ffffff;
+}
+ul{
+    list-style: none;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(119, 70, 23);
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover {
+    background-color: rgb(192, 147, 87);
+  }
